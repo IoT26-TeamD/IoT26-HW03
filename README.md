@@ -1,8 +1,10 @@
+
 # IoT26-HW03
 
 ## Raspberry Pi Motion Detector with Photo Capture
 - Videos via embedded GIFs
   
+
 
 
 - Screenshots of your working project
