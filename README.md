@@ -3,7 +3,8 @@
 
 ## Raspberry Pi Motion Detector with Photo Capture
 - Videos via embedded GIFs
-  
+  <img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/b5d92247-d447-4b17-b1d2-988670ef7cc5" />
+
 
 
 
