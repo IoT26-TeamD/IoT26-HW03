@@ -2,6 +2,7 @@
 
 ## Raspberry Pi Motion Detector with Photo Capture
 - Videos via embedded GIFs
+  
   <img width="400" height="225" alt="IoT26-HW03" src="https://github.com/user-attachments/assets/13df9695-f8ec-4c87-b19f-1c8819b55eb9" />
 
 - Screenshots of your working project
