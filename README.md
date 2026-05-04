@@ -1,9 +1,10 @@
-
+<img width="400" height="225" alt="IoT26-HW03" src="https://github.com/user-attachments/assets/adec68c3-e466-45aa-b318-439fdf1eae7e" />
 # IoT26-HW03
 
 ## Raspberry Pi Motion Detector with Photo Capture
 - Videos via embedded GIFs
-  <img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/b5d92247-d447-4b17-b1d2-988670ef7cc5" />
+  <img width="400" height="225" alt="IoT26-HW03" src="https://github.com/user-attachments/assets/13df9695-f8ec-4c87-b19f-1c8819b55eb9" />
+
 
 
 
